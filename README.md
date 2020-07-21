@@ -1,2 +1,2 @@
-# Projeto-Hello-Word
-Animação com Html e Css, fazendo um Hello Word diferente.
+# Projeto Hello Word
+Animação com Html5 e Css3, fazendo um Hello Word diferente.
